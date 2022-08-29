@@ -9,7 +9,7 @@ theshutterjoy/theshutterjoy is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=CCD6F6&width=435&lines=I'm+Suman+Debnath" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=64FFDA&width=435&lines=I'm+Suman+Debnath" alt="Typing SVG" /></a>
 ==============================
 UI/UX Designer and a student for life
 -------------------------------------
