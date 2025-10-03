@@ -14,40 +14,26 @@ You can click the Preview link to take a look at your changes.
 **'UI/UX Designer and a student for life'**
 ---
 
-* 🌍  I'm based in India
-* 🧠  I'm learning HTML,CSS,Javascript
-* 🤝  I'm open to collaborating on UI/UX projects
-* ⚡  I am also a passionate photographer
-* 📫 How to reach me - just follow me on Twitter @theshutterjoy
+🌍  I'm based in Kolkata, India<br>🧠  Product Designer by Profession + Passionate learner | Learning vibe coding and AI<br>🤝  I'm open to collaborating on UI/UX projects<br>⚡ I am also a passionate photographer and enjoy running small marathons. <br>📫  Twitter @uxwithsuman or Email: business.sumandesigns@gmail.com
 
-<br><br>
 
-<h2 align="center">Skills</h2>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/uxwithsuman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uxwithsuman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@theshutterjoy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/uxwithsuman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@uxwithsuman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business.sumandesigns@gmail.com) 
 
-<p align="center">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="30" height="30" padding="50px" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" height="30" padding="50px" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="30" height="30" padding="50px" alt="CSS3" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="30" height="30" padding="50px" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" padding="50px" alt="Figma" /></a>
-<!-- <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="30" height="30" padding="50px" alt="Sketch" /></a> -->
-</p>
+# 💻 Tech Stack:
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=theshutterjoy&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=theshutterjoy&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theshutterjoy&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<br><br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=theshutterjoy&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-<h2 align="center">Socials</h2>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p align="center"> <a href="https://www.behance.com/theshutterjoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="30" height="30" padding="50px" /></a> <a href="https://www.dribbble.com/theshutterjoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="30" height="30" padding="100px" /></a> 
-<a href="https://www.github.com/theshutterjoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="24" height="24" /></a> 
-<a href="http://www.instagram.com/theshutterjoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="30" padding="50px"/></a> 
-<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" padding="50px" /></a> 
-<a href="http://www.medium.com/theshutterjoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="30" height="30" padding="50px"/></a> 
-<a href="https://www.twitter.com/theshutterjoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" padding="50px"/></a></p>
+---
+[![](https://visitcount.itsvg.in/api?id=theshutterjoy&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### Badges
-
-<!-- <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/theshutterjoy"><img src="https://github-readme-stats.vercel.app/api?username=theshutterjoy&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="theshutterjoy's GitHub stats" /></a> -->
-
-<a href="http://www.github.com/theshutterjoy"><img src="https://activity-graph.herokuapp.com/graph?username=theshutterjoy&bg_color=0d1116&color=ffffff&line=14b8a6&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
